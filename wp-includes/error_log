@@ -1,0 +1,8 @@
+[01-Nov-2022 12:34:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/rajovs/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/rajovs/public_html/wp-includes/functions.php on line 8
+[03-Nov-2022 16:25:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/rajovs/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/rajovs/public_html/wp-includes/functions.php on line 8

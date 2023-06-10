@@ -1,0 +1,8 @@
+[19-Nov-2022 03:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/rajovs/public_html/wp-content/themes/rajoverseas/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/rajovs/public_html/wp-content/themes/rajoverseas/index.php on line 1
+[19-Nov-2022 03:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/rajovs/public_html/wp-content/themes/rajoverseas/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/rajovs/public_html/wp-content/themes/rajoverseas/index.php on line 1
